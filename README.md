@@ -44,3 +44,29 @@ Update with your database details:
 Start a local server using XAMPP or WAMP.
 
 Access the system at http://localhost/parking-lot-management
+
+📸 Screenshots
+
+Dashboard: Real-time overview of slots.
+
+![image alt](https://github.com/jevinkalathiya/Parking-Lot-Management/blob/bf6cbdf80f87b993c1ef4d7acdb74ed5bfaf209e/assets/imgs/Project%20Images/Dashboard.png)
+
+Parking Slot: Assigned Slots to particular Vehicle Category.
+
+![image alt](https://github.com/jevinkalathiya/Parking-Lot-Management/blob/bf6cbdf80f87b993c1ef4d7acdb74ed5bfaf209e/assets/imgs/Project%20Images/Slots%20Panel.png)
+
+Vehicle Category: Type of Vehicle can be parked.
+
+![image alt](https://github.com/jevinkalathiya/Parking-Lot-Management/blob/bf6cbdf80f87b993c1ef4d7acdb74ed5bfaf209e/assets/imgs/Project%20Images/Category%20Panel.png)
+
+Parked Vehicle: Records of parked vehicles.
+
+![image alt](https://github.com/jevinkalathiya/Parking-Lot-Management/blob/bf6cbdf80f87b993c1ef4d7acdb74ed5bfaf209e/assets/imgs/Project%20Images/Vehicle%20EntryExit%20Panel.png)
+
+Entry Form: Add vehicle details.
+
+![image alt](https://github.com/jevinkalathiya/Parking-Lot-Management/blob/bf6cbdf80f87b993c1ef4d7acdb74ed5bfaf209e/assets/imgs/Project%20Images/Vehilce%20Record%20Entry%20Form.png)
+
+User: List of users.
+
+![image alt](https://github.com/jevinkalathiya/Parking-Lot-Management/blob/bf6cbdf80f87b993c1ef4d7acdb74ed5bfaf209e/assets/imgs/Project%20Images/User%20Panel.png)
