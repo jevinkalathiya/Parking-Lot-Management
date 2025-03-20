@@ -67,7 +67,7 @@ Access the system at http://localhost/parking-lot-management
 
 ![image alt](https://github.com/jevinkalathiya/Parking-Lot-Management/blob/bf6cbdf80f87b993c1ef4d7acdb74ed5bfaf209e/assets/imgs/Project%20Images/Vehilce%20Record%20Entry%20Form.png)
 
-User: List of users.
+**User:** The List of Users that can Access the Website.
 
 ![image alt](https://github.com/jevinkalathiya/Parking-Lot-Management/blob/bf6cbdf80f87b993c1ef4d7acdb74ed5bfaf209e/assets/imgs/Project%20Images/User%20Panel.png)
 
