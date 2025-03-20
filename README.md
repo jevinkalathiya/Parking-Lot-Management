@@ -47,7 +47,7 @@ Access the system at http://localhost/parking-lot-management
 
 📸 Screenshots
 
-**Dashboard:** Real-time overview of slots.
+**Dashboard:** Real-time overview of slots & Income Reporst.
 
 ![image alt](https://github.com/jevinkalathiya/Parking-Lot-Management/blob/bf6cbdf80f87b993c1ef4d7acdb74ed5bfaf209e/assets/imgs/Project%20Images/Dashboard.png)
 
