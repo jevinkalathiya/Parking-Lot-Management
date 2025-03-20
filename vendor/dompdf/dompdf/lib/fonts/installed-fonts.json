@@ -1,0 +1,20 @@
+{
+    "nunito": {
+        "200_italic": "C:\\xampp\\htdocs\\parking\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_200_italic_95f76d9b0b415eb418591c89bdce7255",
+        "300_italic": "C:\\xampp\\htdocs\\parking\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_300_italic_c40aa8ba1b24c6f7d8b3e821b2b851a6",
+        "italic": "C:\\xampp\\htdocs\\parking\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_italic_c723218ddeb7f87a083d9429d5586841",
+        "500_italic": "C:\\xampp\\htdocs\\parking\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_500_italic_466193ef8a023e19163107af9e3b7f18",
+        "600_italic": "C:\\xampp\\htdocs\\parking\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_600_italic_85a5da0c65abf4140a2708e3d967bc47",
+        "bold_italic": "C:\\xampp\\htdocs\\parking\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_bold_italic_4ce474138c89aefe1691f2bed545ffba",
+        "800_italic": "C:\\xampp\\htdocs\\parking\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_800_italic_8a13368f152b34cb5170b7a00ccde8be",
+        "900_italic": "C:\\xampp\\htdocs\\parking\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_900_italic_576ac8a9ebb8df727b47a588767a7e4d",
+        "200": "C:\\xampp\\htdocs\\parking\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_200_9b4e5bdfa34481384d3cd9085ed8a88d",
+        "300": "C:\\xampp\\htdocs\\parking\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_300_ed16c859231e9de60529ee8e2539295f",
+        "normal": "C:\\xampp\\htdocs\\parking\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_normal_ee99570c2d40db4ca7cb27ecfa07bd0e",
+        "500": "C:\\xampp\\htdocs\\parking\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_500_1337283c03afe8faf9193502488bd31d",
+        "600": "C:\\xampp\\htdocs\\parking\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_600_462968132f9bb0b300c9ac89cb99aa5d",
+        "bold": "C:\\xampp\\htdocs\\parking\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_bold_8878d120ae1cf02db589138e103b16c4",
+        "800": "C:\\xampp\\htdocs\\parking\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_800_53ad2bcdbfb965de000560e2adeb9889",
+        "900": "nunito_900_edf8aec0295cb9650917b7e466e89097"
+    }
+}

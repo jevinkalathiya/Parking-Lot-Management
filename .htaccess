@@ -1,0 +1,22 @@
+RewriteEngine On
+
+# Do not rewrite if the request is for an existing file or directory
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+
+# RewriteRule ^manage_slot/([^/]+)?$ manage_slot.php?editid=$1 [QSA,L] 
+RewriteRule ^manage_slot/([^/]+)?$ manage_slot.php?editid=$1 [QSA,L]
+
+# RewriteRule ^manage_category/([^/]+)?$ manage_category.php?editid=$1 [QSA,L] 
+RewriteRule ^manage_category/([^/]+)?$ manage_category.php?editid=$1 [QSA,L]
+
+# RewriteRule ^manage_entry/([^/]+)?$ manage_entry.php?editid=$1 [QSA,L] 
+RewriteRule ^manage_entry/([^/]+)?$ manage_entry.php?editid=$1 [QSA,L]
+
+# RewriteRule ^manage_user/([^/]+)?$ manage_user.php?editid=$1 [QSA,L] 
+RewriteRule ^manage_user/([^/]+)?$ manage_user.php?editid=$1 [QSA,L]
+
+# Redirect requests without extension to .php files
+RewriteRule ^([^/\.]+)/?$ $1.php [L]
+
+
