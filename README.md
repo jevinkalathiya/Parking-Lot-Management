@@ -70,3 +70,9 @@ Access the system at http://localhost/parking-lot-management
 User: List of users.
 
 ![image alt](https://github.com/jevinkalathiya/Parking-Lot-Management/blob/bf6cbdf80f87b993c1ef4d7acdb74ed5bfaf209e/assets/imgs/Project%20Images/User%20Panel.png)
+
+📧 Contact
+
+For any questions or support, feel free to reach out!
+
+Developed by Jevin Kalathiya
