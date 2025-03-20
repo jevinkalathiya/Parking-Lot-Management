@@ -55,7 +55,7 @@ Access the system at http://localhost/parking-lot-management
 
 ![image alt](https://github.com/jevinkalathiya/Parking-Lot-Management/blob/bf6cbdf80f87b993c1ef4d7acdb74ed5bfaf209e/assets/imgs/Project%20Images/Slots%20Panel.png)
 
-**Vehicle Category:** Type of Vehicle can be parked.
+**Vehicle Category:** Types of Vehicle can be parked.
 
 ![image alt](https://github.com/jevinkalathiya/Parking-Lot-Management/blob/bf6cbdf80f87b993c1ef4d7acdb74ed5bfaf209e/assets/imgs/Project%20Images/Category%20Panel.png)
 
